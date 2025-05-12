@@ -5,8 +5,6 @@ I'm a passionate Ph.D. student in Computer and Information Sciences at the Unive
 About Me:
 🎓 Ph.D. Student in Computer Science
 
-💻 Teaching Assistant for CSCE 2110 at UNT
-
 🔍 Working on research projects in the field of AI
 
 💡 Always learning and improving in C++, Python, Machine Learning, and more!
