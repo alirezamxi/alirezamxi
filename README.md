@@ -1,36 +1,18 @@
+# Hi there, I'm Alireza 👋
 
-## Hi there, I'm Alireza 👋
-I'm a passionate Ph.D. student in Computer and Information Sciences at the University of North Texas. My interests lie in machine learning, AI, data science, and software development. I'm constantly exploring new ways to solve real-world problems and improve my coding skills.
+I'm a Ph.D. student in Computer Science at the University of North Texas, with a background in Electrical Engineering and Control Systems. I'm deeply passionate about exploring new algorithms and pushing the boundaries of what different deep learning models can do.
 
-About Me:
-🎓 Ph.D. Student in Computer Science
+My main driving motivation is **Deep Reinforcement Learning (RL)**. I am constantly amazed by how powerful RL becomes when paired with deep learning architectures. Right now, my core focus is investigating how **Attention mechanisms** can be integrated into RL to create even smarter, more capable decision-making agents. 
 
-🔍 Working on research projects in the field of AI
+I don't just like applying models; I love digging into the "why" behind them. I spend a lot of my time comparing different algorithms, investigating their underlying advantages and disadvantages, and understanding the fundamental reasons behind their performance. 
 
-💡 Always learning and improving in C++, Python, Machine Learning, and more!
+### 🔬 What I'm Exploring Right Now:
+* **Advanced Deep RL:** Finding new ways to make Reinforcement Learning more powerful, specifically by experimenting with Attention mechanisms and sequence modeling.
+* **Computer Vision & Image Processing:** Recently worked on modifying and improving **YOLOv11** architectures for advanced image processing tasks.
+* **Applied AI & New Devices:** Built a Temporal Convolutional Network (TCN) from scratch for a privacy-preserving healthcare wearable, using Time-of-Flight (ToF) sensors to capture spatial gestures.
 
-🚴 I enjoy biking and outdoor activities when I'm not coding
+For me, the most exciting part of computer science is the sheer variety of deep learning tools available and the challenge of tailoring them to complex, real-world devices. 
 
-🌱 Currently working on AI-based gadgets for healthcare solutions
+When I'm not investigating new model architectures or debugging code, you can usually find me out biking and enjoying the outdoors. 🚴‍♂️
 
-What I'm Working On:
-
-💼 Building skills for the job market as I get closer to graduation
-
-🤖 Researching innovative ways to integrate AI into everyday solutions
-
-
-<!--
-**alirezamxi/alirezamxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/alireza-mohammadshafie-1b6abb192/)
